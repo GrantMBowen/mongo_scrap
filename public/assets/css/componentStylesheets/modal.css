@@ -1,5 +1,5 @@
 .modal-content {
-    background-image: url('../../img/notepad-background.jpg');
+    background-image: url('../../img/ivory-off-white-paper-texture.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     /* background-attachment: fixed; */
@@ -52,6 +52,6 @@
   .deleteNote {
     font-size: 2.5em;
     background: transparent;
-    color: #777;
+    color: black;
     border: none;
   }
